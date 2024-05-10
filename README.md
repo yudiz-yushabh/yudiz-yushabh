@@ -9,8 +9,7 @@
 
 
 **Department:**
-  * PHP (Laravel)
-
+  * <img src="./laravel.svg" height="40px"> PHP (Laravel)
 
 <!---
 yudiz-yushabh/yudiz-yushabh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
